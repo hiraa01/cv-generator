@@ -1,0 +1,39 @@
+{
+  "name": "AYSE DEMIR",
+  "title": "Software Developer | Web · Mobile",
+  "contact": [
+    {"text": "Istanbul, Turkey | +90 555 000 00 00 | "},
+    {"text": "ornek@example.com", "url": "mailto:ornek@example.com"},
+    {"text": " | "},
+    {"text": "LinkedIn", "url": "https://www.linkedin.com/in/ornek-kullanici/"},
+    {"text": " | "},
+    {"text": "GitHub", "url": "https://github.com/ornek-kullanici"}
+  ],
+  "sections": [
+    {"heading": "Profile", "items": [
+      {"type": "para", "text": "Computer Engineering graduate and software developer with internship experience in web (React, Django) and mobile (Flutter) application development."}
+    ]},
+    {"heading": "Technical Skills", "items": [
+      {"type": "labeled", "label": "Programming Languages", "text": "Python, JavaScript, SQL"},
+      {"type": "labeled", "label": "Tools", "text": "Git, Docker"}
+    ]},
+    {"heading": "Work Experience", "items": [
+      {"type": "entry", "title": "Software Developer Intern", "org": "Example Software Inc., Istanbul", "dates": "June 2025 – August 2025"},
+      {"type": "bullet", "text": "Developed and documented REST API endpoints for a product catalog."}
+    ]},
+    {"heading": "Projects", "items": [
+      {"type": "entry", "title": "Example Task Tracker App", "org": "Personal Project", "dates": "2025"},
+      {"type": "bullet", "text": "Built a cross-platform Flutter interface with a Flask-based backend.", "url": "https://github.com/ornek-kullanici/gorev-takip"}
+    ]},
+    {"heading": "Education", "items": [
+      {"type": "entry", "title": "Bachelor's, Computer Engineering", "org": "Example University, Ankara", "dates": "2021 – 2025"}
+    ]},
+    {"heading": "Certifications", "items": [
+      {"type": "bullet", "text": "Example Data Analysis Course | Example Learning Platform | March 2025", "url": "https://example.com/sertifika"}
+    ]},
+    {"heading": "Languages", "items": [
+      {"type": "labeled", "label": "Turkish", "text": "Native"},
+      {"type": "labeled", "label": "English", "text": "B2 (CEFR)"}
+    ]}
+  ]
+}

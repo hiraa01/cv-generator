@@ -1,0 +1,38 @@
+{
+  "name": "AYŞE DEMİR",
+  "title": "Yazılım Geliştirici | Web · Mobil",
+  "contact": [
+    {"text": "İstanbul, Türkiye | +90 555 000 00 00 | "},
+    {"text": "ornek@example.com", "url": "mailto:ornek@example.com"},
+    {"text": " | "},
+    {"text": "LinkedIn", "url": "https://www.linkedin.com/in/ornek-kullanici/"},
+    {"text": " | "},
+    {"text": "GitHub", "url": "https://github.com/ornek-kullanici"}
+  ],
+  "sections": [
+    {"heading": "Profil", "items": [
+      {"type": "para", "text": "Bilgisayar Mühendisliği mezunu yazılım geliştirici. Web (React, Django) ve mobil (Flutter) uygulama geliştirme alanında staj deneyimine sahip."}
+    ]},
+    {"heading": "Teknik Beceriler", "items": [
+      {"type": "labeled", "label": "Programlama Dilleri", "text": "Python, JavaScript, SQL"},
+      {"type": "labeled", "label": "Araçlar", "text": "Git, Docker"}
+    ]},
+    {"heading": "İş Deneyimi", "items": [
+      {"type": "entry", "title": "Yazılım Geliştirici Stajyeri", "org": "Örnek Yazılım A.Ş., İstanbul", "dates": "Haziran 2025 – Ağustos 2025"},
+      {"type": "bullet", "text": "Ürün kataloğu için REST API uç noktalarını geliştirdi ve dokümante etti."}
+    ]},
+    {"heading": "Projeler", "items": [
+      {"type": "entry", "title": "Örnek Görev Takip Uygulaması", "org": "Kişisel Proje", "dates": "2025"},
+      {"type": "bullet", "text": "Flutter ile çapraz platform arayüz ve Flask tabanlı backend geliştirdi.", "url": "https://github.com/ornek-kullanici/gorev-takip"}
+    ]},
+    {"heading": "Eğitim", "items": [
+      {"type": "entry", "title": "Lisans, Bilgisayar Mühendisliği", "org": "Örnek Üniversitesi, Ankara", "dates": "2021 – 2025"}
+    ]},
+    {"heading": "Sertifikalar", "items": [
+      {"type": "bullet", "text": "Örnek Veri Analizi Kursu | Örnek Eğitim Platformu | Mart 2025", "url": "https://example.com/sertifika"}
+    ]},
+    {"heading": "Diller", "items": [
+      {"type": "labeled", "label": "İngilizce", "text": "B2 (CEFR)"}
+    ]}
+  ]
+}

@@ -1,0 +1,13 @@
+# Personal CV data (never commit)
+cv_*.json
+my_*.json
+
+# Generated output
+output/
+dist/
+build/
+*.spec
+*.docx
+*.pdf
+__pycache__/
+venv/
